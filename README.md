@@ -13,7 +13,7 @@ Uma aplicação simples de lista de tarefas (To-Do List) desenvolvida com HTML e
 - Adicionando estilos em css.
 - Salvando e excluindo um elemento no LocalStorage do navegador.
 - Criando alerta personalizado para verificação do tamanho do input. 
-- 
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
