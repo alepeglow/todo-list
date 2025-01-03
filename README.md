@@ -1,13 +1,6 @@
 # Lista de Tarefas (To-Do List)
 
 Uma aplicação simples de lista de tarefas (To-Do List) desenvolvida com HTML e JavaScript. Este projeto permite aos usuários adicionar, visualizar e excluir tarefas de forma fácil e prática.
-<br>
-
-<p>Adicionando elementos por javascript, utilizando CreateElement.
-<p>Adicionando eventos por javascript, utilizando addEventListener.</p>
-<p>Adicionando estilos em css.</p>
-<p>Salvando e excluindo um elemento no LocalStorage do navegador.</p>
-<p>Criando alerta personalizado para verificação do tamanho do input. </p>
 
 
 ## 🎯 Funcionalidades
@@ -15,7 +8,12 @@ Uma aplicação simples de lista de tarefas (To-Do List) desenvolvida com HTML e
 - Adicionar novas tarefas à lista.
 - Marcar tarefas como concluídas.
 - Excluir tarefas.
-
+- Adicionando elementos por javascript, utilizando CreateElement.
+- Adicionando eventos por javascript, utilizando addEventListener.
+- Adicionando estilos em css.
+- Salvando e excluindo um elemento no LocalStorage do navegador.
+- Criando alerta personalizado para verificação do tamanho do input. 
+- 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -51,7 +49,6 @@ open index.html
 
 📝 Funcionalidades Futuras
 
- <p>Salvar tarefas no armazenamento local (localStorage).</p>
  <p>Opção de filtrar tarefas concluídas e pendentes.</p>
  <p>Adicionar datas de vencimento às tarefas.</p>
 
