@@ -43,16 +43,16 @@ open index.html
 
 📝 Funcionalidades Futuras
 
- Adicionar css
- Salvar tarefas no armazenamento local (localStorage).
- Opção de filtrar tarefas concluídas e pendentes.
- Adicionar datas de vencimento às tarefas.
+ <p>Adicionar css</p>
+ <p>Salvar tarefas no armazenamento local (localStorage).</p>
+ <p>Opção de filtrar tarefas concluídas e pendentes.</p>
+ <p>Adicionar datas de vencimento às tarefas.</p>
 
  👨‍💻 Autor
-Alessandra
+Alessandra Peglow
 
 <p align="center">
    <a href="https://www.linkedin.com/in/alessandra-peglow/"><img src="https://img.shields.io/badge/-alepeglow-purple?style=flat&logo=Linkedin&logoColor=white" target="_blank"/></a>
   <a href="https://github.com/alepeglow"><img src="https://img.shields.io/badge/-alepeglow-purple?style=flat&logo=Github&logoColor=white" target="_blank"></a>
 
-GitHub | LinkedIn
+
