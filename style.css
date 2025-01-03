@@ -1,0 +1,43 @@
+body {
+    max-width: 550px;
+    text-align: center;
+    margin: auto;
+    font-size: larger;
+}
+
+main div {
+    border: 1px solid black;
+    padding: 25px 20px;
+    display: block;
+}
+
+button {
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #b50fa4;
+    color: #fff;
+    transition: background-color 1s;
+}
+
+button:hover {
+    background-color: #fc078e;
+}
+
+button:focus,
+button:active {
+    background-color: black;
+    transition: none;
+}
+
+
+main div section ul {
+    list-style: none;
+    padding: 0;
+}
+
+main div section ul li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 5px;
+}
