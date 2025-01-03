@@ -37,9 +37,9 @@ open index.html
 📂 Estrutura do Projeto
 
 📁 to-do-list
-├── 📄 index.html         # Página principal
-├── 📄 script.js          # Lógica da aplicação
-└── 📄 README.md          # Documentação do projeto
+<p></p>├── 📄 index.html         # Página principal </p>
+<p>├── 📄 script.js          # Lógica da aplicação </p>
+<p>└── 📄 README.md          # Documentação do projeto </p>
 
 📝 Funcionalidades Futuras
 
@@ -51,8 +51,8 @@ open index.html
  👨‍💻 Autor
 Alessandra
 
-p align="center">
+<p align="center">
    <a href="https://www.linkedin.com/in/alessandra-peglow/"><img src="https://img.shields.io/badge/-alepeglow-purple?style=flat&logo=Linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://github.com/alepeglow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank">
-  </a>
+  <a href="https://github.com/alepeglow"><img src="https://img.shields.io/badge/-alepeglow-purple?style=flat&logo=Github&logoColor=white" target="_blank"></a>
+
 GitHub | LinkedIn
